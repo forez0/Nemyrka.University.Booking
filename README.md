@@ -1,17 +1,16 @@
-Author
-
+## Author
 Nemyrka Denys
 
 nemurkadenus@gmail.com
 
 https://t.me/f0rez1
 
-Getting Started
+## Getting Started
 
 Add your getting started here.
 
-Project Documentation
+## Project Documentation
 
 Add your project documentation here.
 
-Project Task Decomposition
+## Project Task Decomposition
