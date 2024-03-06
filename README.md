@@ -38,7 +38,7 @@ Week 1:
 - Set up project repository and initial folder structure.✔️
 - Define database schema for user accounts and authentication.✔️
 - Begin frontend development: create basic layout and design for registration page.✔️
-- Set up Azure environment for project deployment.
+- Set up Azure environment for project deployment.✔️
 
 Week 2:
 - Implement feature: Accommodation Booking functionality.
