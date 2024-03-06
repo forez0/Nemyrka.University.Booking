@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-*x2sdx)%25om+z4l%h(-htkx#)pb4i6_8=0hgop*i6ne1-$=i+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['booking2.azurewebsites.net', '127.0.0.1']
 
 
 # Application definition
