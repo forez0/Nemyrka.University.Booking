@@ -36,7 +36,7 @@ Week 1 (02/27 - 03/06):️
 Week 1:
 - Implement feature: User Registration with Google OAuth 2.0.✔️
 - Set up project repository and initial folder structure.✔️
-- Define database schema for user accounts and authentication.✔️
+- Define database schema for user accounts and authentication.
 - Begin frontend development: create basic layout and design for registration page.✔️
 - Set up Azure environment for project deployment.✔️
 
