@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-*x2sdx)%25om+z4l%h(-htkx#)pb4i6_8=0hgop*i6ne1-$=i+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['booking2.azurewebsites.net', '127.0.0.1']
+ALLOWED_HOSTS = ['booking2.azurewebsites.net', 'localhost', '127.0.0.1']
 
 
 # Application definition
@@ -129,7 +129,7 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-SITE_ID = 2
+SITE_ID = 1
 
 # Social authentication settings
 SOCIALACCOUNT_LOGIN_ON_GET = True
