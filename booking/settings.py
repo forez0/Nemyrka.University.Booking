@@ -21,12 +21,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-*x2sdx)%25om+z4l%h(-htkx#)pb4i6_8=0hgop*i6ne1-$=i+'
+SECRET_KEY = '976ffde920e08087f562dd9ef49576ed76e8d4f78966959e5e03e192a209883be99e8b6454049438f4c101e735faa2c9b6a1'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['booking2.azurewebsites.net', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['booking2.azurewebsites.net', '127.0.0.1']
 
 
 # Application definition
@@ -122,7 +122,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
 
-STATIC_URL = 'static/'
+STATIC_URL = '/static/'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
