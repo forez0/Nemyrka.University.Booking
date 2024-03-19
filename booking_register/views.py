@@ -16,4 +16,4 @@ def register(request):
 
 
 def callback_view(request):
-    return redirect(reverse('home'))
+    return redirect('home')
