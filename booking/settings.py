@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'rest_framework',
     'allauth',
+    'booking_accommodation',
+    'booking_register',
     'allauth.account',
     'allauth.socialaccount',
     'allauth.socialaccount.providers.google',
