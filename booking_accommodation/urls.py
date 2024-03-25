@@ -9,5 +9,5 @@ router.register(r'accommodations', views.AccommodationViewSet)
 router.register(r'bookings', views.BookingViewSet)
 
 urlpatterns = [
-    path('', include(router.urls)),
+    path('', include('router.urls')),
 ]
