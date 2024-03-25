@@ -24,5 +24,5 @@ urlpatterns = [
     path('register/', views.register, name='register'),
     path('booking_register/', include("allauth.urls")),
     path('accounts/google/login/callback/', views.callback_view, name='google_callback'),
-    path('', views.home, name='home'),  # Home page
+    path('', views.home, name='home'),
 ]
